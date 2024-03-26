@@ -10,6 +10,7 @@
   - [Email](#email)
   - [Video](#video)
   - [QRCode](#qrcode)
+  - [Broadcast](#broadcast)
 - [FAQ](#faq)
   - [I got two links that have same medium and same source. How to divide the traffic in this case?](#i-got-two-links-that-have-same-medium-and-same-source-how-to-divide-the-traffic-in-this-case)
   - [I use hyperlink on banner and text in the email. What kind of utm_medium should I choose?](#i-use-hyperlink-on-banner-and-text-in-the-email-what-kind-of-utm_medium-should-i-choose)
@@ -40,6 +41,9 @@
 
 ### QRCode
 - The link is displayed as QR Code in physical material.
+
+### Broadcast
+- The link is posted in broadcast platforms.
 
 ## FAQ
 
